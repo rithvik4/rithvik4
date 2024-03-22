@@ -29,7 +29,7 @@ Beside programming, I got a penchant for writing!
 - 💻 I’m currently working on multiple projects :smile:;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@rithvik4](https://www.linkedin.com/in/bura-rithvik-kumar-130189194/);
-- 📝[Resume]()
+- 📝[Resume]( https://drive.google.com/file/d/1K-6R-0iJYjODZDs5ZFXunSvNNYXPsxDI/view?usp=drive_link )
 
 **Languages and Tools:**  
 
