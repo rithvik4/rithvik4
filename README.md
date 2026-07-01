@@ -45,8 +45,4 @@ Beside programming, I got a penchant for writing!
 
 <summary>📈 My GitHub Stats: </summary>
 <br>
-<br>
-
-<br>
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvik4&layout=compact)](https://github.com/rithvik4/github-readme-stats)
