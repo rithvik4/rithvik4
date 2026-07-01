@@ -46,3 +46,4 @@ Beside programming, I got a penchant for writing!
 <summary>📈 My GitHub Stats: </summary>
 <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvik4&layout=compact)](https://github.com/rithvik4/github-readme-stats)
+  <p align="left"> <img align="left" alt="Bura Rithvik Kumar's profile stats" src="https://github-readme-stats.vercel.app/api?username=rithvik4&show_icons=true&theme=gotham" alt="rithvik4" />
