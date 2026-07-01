@@ -5,8 +5,8 @@
   <img align="left" alt="Rithvik Kumar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/rithvikkk__//">
-  <img align="left" alt="Rithvik kumar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://burarithvik-portfolio.vercel.app/">
+  <img align="left" alt="Rithvik Kumar's Portfolio" width="22px" src="https://c7.alamy.com/comp/2XG5283/portfolio-icon-vector-logo-set-collection-for-web-app-ui-2XG5283.jpg" />
 </a>
 
 
@@ -14,12 +14,11 @@
 
 <br />
 
-Hi, I'm [Rithvik Kumar](https://www.linkedin.com/in/bura-rithvik-kumar-130189194/), a Full Stack Developer 🚀 from Hyderabad, India.  A CS graduate contributing to various open-sourced projects and working on quite a few personal projects. 
+Hi, I'm [Rithvik Kumar](https://www.linkedin.com/in/bura-rithvik-kumar-130189194/), a Full Stack Developer 🚀 from Hyderabad, India, currently working at Kopen Software Solutions. A CS graduate contributing to various open-source projects and building quite a few personal projects.
 
-I'm interested in Web Development, Mobile App Development, Machine learning and Data Science.
+I'm interested in Web Development, Mobile App Development, Machine Learning, and Data Science.
 
-Beside programming, I got a penchant for writing!
-
+Beside programming, I got many more hobbies and interests.
 
 
   <img align="right" alt="GIF" src="https://github.com/rithvik4/rithvik4/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -29,7 +28,7 @@ Beside programming, I got a penchant for writing!
 - 💻 I’m currently working on multiple projects :smile:;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@rithvik4](https://www.linkedin.com/in/bura-rithvik-kumar-130189194/);
-- 📝[Resume]( https://drive.google.com/file/d/1K-6R-0iJYjODZDs5ZFXunSvNNYXPsxDI/view?usp=drive_link )
+- 📝[Portfolio](https://burarithvik-portfolio.vercel.app/)
 
 **Languages and Tools:**  
 
@@ -43,7 +42,8 @@ Beside programming, I got a penchant for writing!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<summary>📈 My GitHub Stats: </summary>
-<br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvik4&layout=compact)](https://github.com/rithvik4/github-readme-stats)
-  <p align="left"> <img align="left" alt="Bura Rithvik Kumar's profile stats" src="https://github-readme-stats.vercel.app/api?username=rithvik4&show_icons=true&theme=gotham" alt="rithvik4" />
+**📈 My GitHub Stats:**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvik4&layout=compact)](https://github.com/rithvik4/github-readme-stats)
+
+![Bura Rithvik Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithvik4&show_icons=true&theme=gotham)
