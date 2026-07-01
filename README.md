@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://burarithvik-portfolio.vercel.app/">
-  <img align="left" alt="Rithvik Kumar's Portfolio" width="22px" src="https://c7.alamy.com/comp/2XG5283/portfolio-icon-vector-logo-set-collection-for-web-app-ui-2XG5283.jpg" />
+  <img align="left" alt="Rithvik Kumar's Portfolio" width="22px" src="https://static.vecteezy.com/system/resources/previews/020/816/485/non_2x/portfolio-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" />
 </a>
 
 
@@ -45,5 +45,3 @@ Beside programming, I got many more hobbies and interests.
 **📈 My GitHub Stats:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvik4&layout=compact)](https://github.com/rithvik4/github-readme-stats)
-
-![Bura Rithvik Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithvik4&show_icons=true&theme=gotham)
