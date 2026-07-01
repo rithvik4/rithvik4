@@ -46,7 +46,6 @@ Beside programming, I got a penchant for writing!
 <summary>📈 My GitHub Stats: </summary>
 <br>
 <br>
-<p align="left"> <img align="left" alt="Sai kamal's profile stats" src="https://github-readme-stats.vercel.app/api?username=rithvik4&show_icons=true&theme=gotham" alt="rithvik4" />
 
 <br>
   
