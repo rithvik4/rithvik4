@@ -1,14 +1,13 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<a href="https://www.linkedin.com/in/bura-rithvik-kumar-130189194/">
-  <img align="left" alt="Rithvik Kumar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
 <a href="https://burarithvik-portfolio.vercel.app/">
   <img align="left" alt="Rithvik Kumar's Portfolio" width="22px" src="https://img.icons8.com/badges/1200/portfolio.jpg" />
 </a>
 
+<a href="https://www.linkedin.com/in/bura-rithvik-kumar-130189194/">
+  <img align="left" alt="Rithvik Kumar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rithvik4.rithvik4)
 
