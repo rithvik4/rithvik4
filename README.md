@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://burarithvik-portfolio.vercel.app/">
-  <img align="left" alt="Rithvik Kumar's Portfolio" width="22px" src="https://static.vecteezy.com/system/resources/previews/020/816/485/non_2x/portfolio-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" />
+  <img align="left" alt="Rithvik Kumar's Portfolio" width="22px" src="https://img.icons8.com/badges/1200/portfolio.jpg" />
 </a>
 
 
